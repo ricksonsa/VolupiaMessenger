@@ -1,0 +1,15 @@
+﻿<Window x:Class="VolupiaWPFClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VolupiaWPFClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="378.278" Width="260.925">
+    <Grid>
+        <Ellipse Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="154" Margin="10,52,0,0" Stroke="Black" VerticalAlignment="Top" Width="234"/>
+        <TextBox x:Name="UserEntryTB" HorizontalAlignment="Left" Height="23" Margin="41,90,0,0" TextWrapping="Wrap" Text="&#xD;&#xA;" VerticalAlignment="Top" Width="168"/>
+        <PasswordBox x:Name="PasswordTB" HorizontalAlignment="Left" Margin="41,118,0,0" VerticalAlignment="Top" Width="168"/>
+        <Button x:Name="LoginBtn" Content="Entrar" HorizontalAlignment="Left" Margin="74,158,0,0" VerticalAlignment="Top" Width="106" Click="LoginBtn_Click"/>
+    </Grid>
+</Window>

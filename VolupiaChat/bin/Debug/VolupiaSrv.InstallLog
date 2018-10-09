@@ -1,0 +1,13 @@
+﻿Instalando o assembly 'C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaSrv.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaSrv.InstallLog
+   assemblypath = C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaSrv.exe
+Instalando o serviço VolupiaSrv...
+Serviço VolupiaSrv foi instalado com êxito.
+Criando a origem de EventLog VolupiaSrv no log Application...
+Confirmando o assembly 'C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaSrv.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaSrv.InstallLog
+   assemblypath = C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaSrv.exe

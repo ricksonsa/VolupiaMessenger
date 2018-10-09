@@ -1,0 +1,6 @@
+c:\users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaMessenger(WFA)Final\obj\Debug\VolupiaMessenger(WFA)Final.csprojResolveAssemblyReference.cache
+c:\users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaMessenger(WFA)Final\obj\Debug\VolupiaMessenger_WFA_Final.LoginScreen.resources
+c:\users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaMessenger(WFA)Final\obj\Debug\VolupiaMessenger_WFA_Final.Main.resources
+c:\users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaMessenger(WFA)Final\obj\Debug\VolupiaMessenger_WFA_Final.Properties.Resources.resources
+c:\users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaMessenger(WFA)Final\obj\Debug\VolupiaMessenger(WFA)Final.csproj.GenerateResource.Cache
+c:\users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaMessenger(WFA)Final\obj\Debug\VolupiaMessenger(WFA)Final.csproj.CoreCompileInputs.cache

@@ -1,0 +1,112 @@
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\VolupiaWebApp.dll.config
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\VolupiaWebApp.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\VolupiaWebApp.pdb
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\csc.exe
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\csc.exe.config
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\csc.rsp
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\csi.exe
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\csi.exe.config
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\csi.rsp
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.AppContext.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.Console.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.IO.Compression.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.Security.Claims.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.ValueTuple.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\vbc.exe
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\vbc.exe.config
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\vbc.rsp
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\VBCSCompiler.exe
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\obj\Debug\VolupiaWebApp.csprojAssemblyReference.cache
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\obj\Debug\VolupiaWebApp.csproj.CoreCompileInputs.cache
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\obj\Debug\VolupiaWebApp.csproj.CopyComplete
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\obj\Debug\VolupiaWebApp.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWebApp\obj\Debug\VolupiaWebApp.pdb
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\VolupiaWebApp.dll.config
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\VolupiaWebApp.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\VolupiaWebApp.pdb
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\csc.exe
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\csc.exe.config
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\csc.rsp
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\csi.exe
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\csi.exe.config
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\csi.rsp
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.Console.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\vbc.exe
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\vbc.exe.config
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\vbc.rsp
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\obj\Debug\VolupiaWebApp.csprojAssemblyReference.cache
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\obj\Debug\VolupiaWebApp.csproj.CoreCompileInputs.cache
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\obj\Debug\VolupiaWebApp.csproj.CopyComplete
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\obj\Debug\VolupiaWebApp.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWebApp\obj\Debug\VolupiaWebApp.pdb

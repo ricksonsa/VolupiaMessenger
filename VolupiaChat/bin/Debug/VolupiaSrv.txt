@@ -1,0 +1,202 @@
+15:04:00 sexta-feira, 31 de agosto de 2018
+Serviço iniciado.
+---------------------------------------------------------------------------------------------
+15:04:00 sexta-feira, 31 de agosto de 2018
+Chamando aplicações...
+---------------------------------------------------------------------------------------------
+15:04:00 sexta-feira, 31 de agosto de 2018
+Iniciando processo VolupiaServer.exe
+---------------------------------------------------------------------------------------------
+15:05:11 sexta-feira, 31 de agosto de 2018
+Serviço iniciado.
+---------------------------------------------------------------------------------------------
+15:05:11 sexta-feira, 31 de agosto de 2018
+Chamando aplicações...
+---------------------------------------------------------------------------------------------
+15:05:11 sexta-feira, 31 de agosto de 2018
+Iniciando processo VolupiaServer.exe
+---------------------------------------------------------------------------------------------
+15:08:20 sexta-feira, 31 de agosto de 2018
+Serviço iniciado.
+---------------------------------------------------------------------------------------------
+15:08:20 sexta-feira, 31 de agosto de 2018
+Chamando aplicações...
+---------------------------------------------------------------------------------------------
+15:08:20 sexta-feira, 31 de agosto de 2018
+Iniciando processo VolupiaServer.exe
+---------------------------------------------------------------------------------------------
+15:10:23 sexta-feira, 31 de agosto de 2018
+Serviço iniciado.
+---------------------------------------------------------------------------------------------
+15:10:23 sexta-feira, 31 de agosto de 2018
+Chamando aplicações...
+---------------------------------------------------------------------------------------------
+15:10:23 sexta-feira, 31 de agosto de 2018
+Iniciando processo VolupiaServer.exe
+---------------------------------------------------------------------------------------------
+15:11:47 sexta-feira, 31 de agosto de 2018
+Serviço iniciado.
+---------------------------------------------------------------------------------------------
+15:11:47 sexta-feira, 31 de agosto de 2018
+Chamando aplicações...
+---------------------------------------------------------------------------------------------
+15:11:59 sexta-feira, 31 de agosto de 2018
+Serviço iniciado.
+---------------------------------------------------------------------------------------------
+15:11:59 sexta-feira, 31 de agosto de 2018
+Chamando aplicações...
+---------------------------------------------------------------------------------------------
+15:13:02 sexta-feira, 31 de agosto de 2018
+Serviço iniciado.
+---------------------------------------------------------------------------------------------
+15:13:02 sexta-feira, 31 de agosto de 2018
+Chamando aplicações...
+---------------------------------------------------------------------------------------------
+15:13:02 sexta-feira, 31 de agosto de 2018
+uResult=True processo: VolupiaServer.exe iniciado com PID: 12516
+---------------------------------------------------------------------------------------------
+15:13:02 sexta-feira, 31 de agosto de 2018
+uResult=True processo: VolupiaChat.exe iniciado com PID: 14996
+---------------------------------------------------------------------------------------------
+15:13:02 sexta-feira, 31 de agosto de 2018
+Iniciando rotina...
+---------------------------------------------------------------------------------------------
+15:13:08 sexta-feira, 31 de agosto de 2018
+Processo VolupiaServer.exe encerrado.
+---------------------------------------------------------------------------------------------
+15:13:08 sexta-feira, 31 de agosto de 2018
+Iniciando processo VolupiaServer.exe
+---------------------------------------------------------------------------------------------
+15:13:08 sexta-feira, 31 de agosto de 2018
+uResult=True processo: VolupiaServer.exe iniciado com PID: 17932
+---------------------------------------------------------------------------------------------
+15:13:14 sexta-feira, 31 de agosto de 2018
+Processo VolupiaChat.exe encerrado.
+---------------------------------------------------------------------------------------------
+15:13:14 sexta-feira, 31 de agosto de 2018
+Iniciando processo VolupiaChat.exe
+---------------------------------------------------------------------------------------------
+15:13:14 sexta-feira, 31 de agosto de 2018
+uResult=True processo: VolupiaChat.exe iniciado com PID: 9328
+---------------------------------------------------------------------------------------------
+15:13:25 sexta-feira, 31 de agosto de 2018
+Serviço parado.
+---------------------------------------------------------------------------------------------
+15:14:13 sexta-feira, 31 de agosto de 2018
+Serviço iniciado.
+---------------------------------------------------------------------------------------------
+15:14:13 sexta-feira, 31 de agosto de 2018
+Chamando aplicações...
+---------------------------------------------------------------------------------------------
+15:14:13 sexta-feira, 31 de agosto de 2018
+Iniciando processo VolupiaServer.exe
+---------------------------------------------------------------------------------------------
+15:14:14 sexta-feira, 31 de agosto de 2018
+uResult=True processo: VolupiaServer.exe iniciado com PID: 14256
+---------------------------------------------------------------------------------------------
+15:14:14 sexta-feira, 31 de agosto de 2018
+Iniciando processo VolupiaChat.exe
+---------------------------------------------------------------------------------------------
+15:14:14 sexta-feira, 31 de agosto de 2018
+uResult=True processo: VolupiaChat.exe iniciado com PID: 19952
+---------------------------------------------------------------------------------------------
+15:14:14 sexta-feira, 31 de agosto de 2018
+Iniciando rotina...
+---------------------------------------------------------------------------------------------
+15:14:26 sexta-feira, 31 de agosto de 2018
+Processo VolupiaChat.exe encerrado.
+---------------------------------------------------------------------------------------------
+15:14:26 sexta-feira, 31 de agosto de 2018
+Iniciando processo VolupiaChat.exe
+---------------------------------------------------------------------------------------------
+15:14:26 sexta-feira, 31 de agosto de 2018
+uResult=True processo: VolupiaChat.exe iniciado com PID: 14848
+---------------------------------------------------------------------------------------------
+15:14:44 sexta-feira, 31 de agosto de 2018
+Processo VolupiaServer.exe encerrado.
+---------------------------------------------------------------------------------------------
+15:14:44 sexta-feira, 31 de agosto de 2018
+Iniciando processo VolupiaServer.exe
+---------------------------------------------------------------------------------------------
+15:14:44 sexta-feira, 31 de agosto de 2018
+uResult=True processo: VolupiaServer.exe iniciado com PID: 8452
+---------------------------------------------------------------------------------------------
+15:14:50 sexta-feira, 31 de agosto de 2018
+Processo VolupiaChat.exe encerrado.
+---------------------------------------------------------------------------------------------
+15:14:50 sexta-feira, 31 de agosto de 2018
+Iniciando processo VolupiaChat.exe
+---------------------------------------------------------------------------------------------
+15:14:50 sexta-feira, 31 de agosto de 2018
+uResult=True processo: VolupiaChat.exe iniciado com PID: 18484
+---------------------------------------------------------------------------------------------
+15:15:08 sexta-feira, 31 de agosto de 2018
+Processo VolupiaServer.exe encerrado.
+---------------------------------------------------------------------------------------------
+15:15:08 sexta-feira, 31 de agosto de 2018
+Iniciando processo VolupiaServer.exe
+---------------------------------------------------------------------------------------------
+15:15:08 sexta-feira, 31 de agosto de 2018
+uResult=True processo: VolupiaServer.exe iniciado com PID: 14692
+---------------------------------------------------------------------------------------------
+15:15:14 sexta-feira, 31 de agosto de 2018
+Processo VolupiaChat.exe encerrado.
+---------------------------------------------------------------------------------------------
+15:15:14 sexta-feira, 31 de agosto de 2018
+Iniciando processo VolupiaChat.exe
+---------------------------------------------------------------------------------------------
+15:15:14 sexta-feira, 31 de agosto de 2018
+uResult=True processo: VolupiaChat.exe iniciado com PID: 5508
+---------------------------------------------------------------------------------------------
+15:15:20 sexta-feira, 31 de agosto de 2018
+Processo VolupiaServer.exe encerrado.
+---------------------------------------------------------------------------------------------
+15:15:20 sexta-feira, 31 de agosto de 2018
+Iniciando processo VolupiaServer.exe
+---------------------------------------------------------------------------------------------
+15:15:20 sexta-feira, 31 de agosto de 2018
+uResult=True processo: VolupiaServer.exe iniciado com PID: 992
+---------------------------------------------------------------------------------------------
+15:15:26 sexta-feira, 31 de agosto de 2018
+Processo VolupiaChat.exe encerrado.
+---------------------------------------------------------------------------------------------
+15:15:26 sexta-feira, 31 de agosto de 2018
+Iniciando processo VolupiaChat.exe
+---------------------------------------------------------------------------------------------
+15:15:26 sexta-feira, 31 de agosto de 2018
+uResult=True processo: VolupiaChat.exe iniciado com PID: 13384
+---------------------------------------------------------------------------------------------
+15:15:27 sexta-feira, 31 de agosto de 2018
+Serviço parado.
+---------------------------------------------------------------------------------------------
+10:33:08 terça-feira, 18 de setembro de 2018
+Serviço iniciado.
+---------------------------------------------------------------------------------------------
+10:33:10 terça-feira, 18 de setembro de 2018
+Chamando aplicações...
+---------------------------------------------------------------------------------------------
+10:33:10 terça-feira, 18 de setembro de 2018
+Iniciando processo VolupiaServer.exe
+---------------------------------------------------------------------------------------------
+10:33:14 terça-feira, 18 de setembro de 2018
+Erro em StartProcessAsCurrentUser():  System.Exception: StartProcessAsCurrentUser: GetSessionUserToken failed.
+   em murrayju.ProcessExtensions.ProcessExtensions.StartProcessAsCurrentUser(String appPath, String cmdLine, String workDir, Boolean visible)
+   em demo.DemoService.StartApplication(String filePath, String fileName)
+---------------------------------------------------------------------------------------------
+10:33:14 terça-feira, 18 de setembro de 2018
+uResult=False  processo: VolupiaServer.exe não foi iniciado em StartApplication() adicionando-o à lista de pendência.
+---------------------------------------------------------------------------------------------
+10:33:14 terça-feira, 18 de setembro de 2018
+Iniciando processo VolupiaChat.exe
+---------------------------------------------------------------------------------------------
+10:33:14 terça-feira, 18 de setembro de 2018
+Erro em StartProcessAsCurrentUser():  System.Exception: StartProcessAsCurrentUser: GetSessionUserToken failed.
+   em murrayju.ProcessExtensions.ProcessExtensions.StartProcessAsCurrentUser(String appPath, String cmdLine, String workDir, Boolean visible)
+   em demo.DemoService.StartApplication(String filePath, String fileName)
+---------------------------------------------------------------------------------------------
+10:33:14 terça-feira, 18 de setembro de 2018
+uResult=False  processo: VolupiaChat.exe não foi iniciado em StartApplication() adicionando-o à lista de pendência.
+---------------------------------------------------------------------------------------------
+10:33:14 terça-feira, 18 de setembro de 2018
+Iniciando rotina...
+---------------------------------------------------------------------------------------------

@@ -1,0 +1,177 @@
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\bin\Debug\VolupiaChat.exe.config
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\bin\Debug\VolupiaChat.exe
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\bin\Debug\VolupiaChat.pdb
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\bin\Debug\VolupiaInterfaces.dll
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\bin\Debug\VolupiaServer.exe
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\bin\Debug\VolupiaServer.pdb
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\bin\Debug\VolupiaServer.exe.config
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\obj\Debug\VolupiaChat.csprojResolveAssemblyReference.cache
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\obj\Debug\VolupiaChat.Chat.resources
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\obj\Debug\VolupiaChat.Form1.resources
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\obj\Debug\VolupiaChat.Properties.Resources.resources
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\obj\Debug\VolupiaChat.csproj.GenerateResource.Cache
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\obj\Debug\VolupiaChat.csproj.CoreCompileInputs.cache
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\obj\Debug\VolupiaChat.exe
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\obj\Debug\VolupiaChat.pdb
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\obj\Debug\VolupiaChat.Toast.resources
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\bin\Debug\pt-BR\VolupiaChat.resources.dll
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\obj\Debug\VolupiaChat.Chat.pt-BR.resources
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaChat\obj\Debug\pt-BR\VolupiaChat.resources.dll
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.exe.config
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.exe
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.pdb
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\bin\Debug\pt-BR\VolupiaChat.resources.dll
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\bin\Debug\VolupiaInterfaces.dll
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.exe
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.pdb
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.exe.config
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csprojResolveAssemblyReference.cache
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Chat.resources
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Form1.resources
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Properties.Resources.resources
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Chat.pt-BR.resources
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csproj.GenerateResource.Cache
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csproj.CoreCompileInputs.cache
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\obj\Debug\pt-BR\VolupiaChat.resources.dll
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.exe
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.pdb
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaInterfaces.dll
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.exe
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.pdb
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.exe.config
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Chat.resources
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Form1.resources
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Properties.Resources.resources
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Chat.pt-BR.resources
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csproj.GenerateResource.Cache
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\pt-BR\VolupiaChat.resources.dll
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.exe
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.pdb
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.exe.config
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.exe
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.pdb
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\pt-BR\VolupiaChat.resources.dll
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\NAudio.dll
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\NAudio.xml
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.exe.config
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.exe
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.pdb
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\pt-BR\VolupiaChat.resources.dll
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaInterfaces.dll
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.exe
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.pdb
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.exe.config
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\NAudio.xml
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csprojAssemblyReference.cache
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Chat.resources
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Form1.resources
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Properties.Resources.resources
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Chat.pt-BR.resources
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csproj.GenerateResource.cache
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csproj.CoreCompileInputs.cache
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\pt-BR\VolupiaChat.resources.dll
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csproj.CopyComplete
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.exe
+C:\Users\lvk.rickson\Desktop\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.pdb
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.exe.config
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.exe
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.pdb
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\pt-BR\VolupiaChat.resources.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaInterfaces.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.exe
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaInterfaces.pdb
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.pdb
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.exe.config
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csprojAssemblyReference.cache
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Chat.resources
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Form1.resources
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.MessageBox.HelloMessage.resources
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Properties.Resources.resources
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.SingUp.resources
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Chat.pt-BR.resources
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csproj.GenerateResource.cache
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csproj.CoreCompileInputs.cache
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\pt-BR\VolupiaChat.resources.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csproj.CopyComplete
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.exe
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.pdb
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Bubble.resources
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.exe.config
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.exe
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.pdb
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\pt-BR\VolupiaChat.resources.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaInterfaces.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.exe
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.pdb
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.exe.config
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csprojAssemblyReference.cache
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Bubble.resources
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Chat.resources
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Form1.resources
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.MessageBox.HelloMessage.resources
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Properties.Resources.resources
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.SingUp.resources
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Chat.pt-BR.resources
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csproj.GenerateResource.cache
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csproj.CoreCompileInputs.cache
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\pt-BR\VolupiaChat.resources.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csproj.CopyComplete
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.exe
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.pdb
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.exe.config
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.exe
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaChat.pdb
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\pt-BR\VolupiaChat.resources.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaInterfaces.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.exe
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.pdb
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\bin\Debug\VolupiaServer.exe.config
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csprojAssemblyReference.cache
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Bubble.resources
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Chat.resources
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Form1.resources
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.MessageBox.HelloMessage.resources
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Properties.Resources.resources
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.SingUp.resources
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.Chat.pt-BR.resources
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csproj.GenerateResource.cache
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csproj.CoreCompileInputs.cache
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\pt-BR\VolupiaChat.resources.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.csproj.CopyComplete
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.exe
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaChat\obj\Debug\VolupiaChat.pdb
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\bin\Debug\VolupiaChat.exe.config
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\bin\Debug\VolupiaChat.exe
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\bin\Debug\VolupiaChat.pdb
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\bin\Debug\pt-BR\VolupiaChat.resources.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\bin\Debug\VolupiaInterfaces.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\bin\Debug\VolupiaServer.exe
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\bin\Debug\VolupiaServer.pdb
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\bin\Debug\VolupiaServer.exe.config
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\obj\Debug\VolupiaChat.csprojAssemblyReference.cache
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\obj\Debug\VolupiaChat.Bubble.resources
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\obj\Debug\VolupiaChat.Chat.resources
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\obj\Debug\VolupiaChat.Form1.resources
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\obj\Debug\VolupiaChat.MessageBox.HelloMessage.resources
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\obj\Debug\VolupiaChat.Properties.Resources.resources
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\obj\Debug\VolupiaChat.SingUp.resources
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\obj\Debug\VolupiaChat.Chat.pt-BR.resources
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\obj\Debug\VolupiaChat.csproj.GenerateResource.cache
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\obj\Debug\VolupiaChat.csproj.CoreCompileInputs.cache
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\obj\Debug\pt-BR\VolupiaChat.resources.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\obj\Debug\VolupiaChat.csproj.CopyComplete
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\obj\Debug\VolupiaChat.exe
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaChat\obj\Debug\VolupiaChat.pdb

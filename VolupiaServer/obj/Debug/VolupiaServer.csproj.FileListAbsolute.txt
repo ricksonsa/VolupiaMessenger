@@ -1,0 +1,507 @@
+c:\users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaServer\obj\Debug\VolupiaServer.csprojResolveAssemblyReference.cache
+c:\users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaServer\obj\Debug\VolupiaServer.csproj.CoreCompileInputs.cache
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaServer\bin\Debug\VolupiaServer.exe.config
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaServer\bin\Debug\VolupiaServer.exe
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaServer\bin\Debug\VolupiaServer.pdb
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaServer\bin\Debug\VolupiaInterfaces.dll
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaServer\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaServer\obj\Debug\VolupiaServer.exe
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaServer\obj\Debug\VolupiaServer.pdb
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaServer\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaServer\obj\Debug\VolupiaServer.Properties.Resources.resources
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaServer\obj\Debug\VolupiaServer.csproj.GenerateResource.Cache
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaServer\bin\Debug\VolupiaServer.exe.config
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaServer\bin\Debug\VolupiaServer.exe
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaServer\bin\Debug\VolupiaServer.pdb
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaServer\bin\Debug\VolupiaInterfaces.dll
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaServer\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csprojResolveAssemblyReference.cache
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.Properties.Resources.resources
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csproj.GenerateResource.Cache
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csproj.CoreCompileInputs.cache
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.exe
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.pdb
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaServer.exe.config
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaServer.exe
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaServer.pdb
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaInterfaces.dll
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csprojResolveAssemblyReference.cache
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.Properties.Resources.resources
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csproj.GenerateResource.Cache
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.exe
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.pdb
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaServer.exe.config
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaServer.exe
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaServer.pdb
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\netstandard.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.AppContext.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Collections.Concurrent.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Collections.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Collections.NonGeneric.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Collections.Specialized.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ComponentModel.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Console.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Data.Common.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.Debug.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.Process.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.Tools.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Drawing.Primitives.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Dynamic.Runtime.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Globalization.Calendars.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Globalization.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Globalization.Extensions.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.Compression.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.FileSystem.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.Pipes.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Linq.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Linq.Expressions.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Linq.Parallel.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Linq.Queryable.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Http.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.NameResolution.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.NetworkInformation.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Ping.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Primitives.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Requests.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Security.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Sockets.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.WebSockets.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ObjectModel.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Reflection.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Reflection.Extensions.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Reflection.Primitives.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Resources.Reader.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Resources.ResourceManager.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Resources.Writer.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Extensions.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Handles.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.InteropServices.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Numerics.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Claims.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Principal.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.SecureString.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Text.Encoding.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Text.RegularExpressions.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.Overlapped.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.Tasks.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.Thread.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.ThreadPool.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.Timer.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ValueTuple.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.XDocument.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.XmlDocument.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.XPath.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\DnsClient.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Bson.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Driver.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Buffers.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaInterfaces.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaInterfaces.pdb
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\DnsClient.xml
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Bson.xml
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Driver.xml
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Buffers.xml
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csprojAssemblyReference.cache
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.exe.config
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.Properties.Resources.resources
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csproj.GenerateResource.cache
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csproj.CoreCompileInputs.cache
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csproj.CopyComplete
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.exe
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.pdb
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaServer.exe.config
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaServer.exe
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaServer.pdb
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\netstandard.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.AppContext.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Collections.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ComponentModel.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Console.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Data.Common.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Globalization.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.Compression.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.Pipes.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Linq.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Http.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Ping.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Primitives.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Requests.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Security.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Sockets.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ObjectModel.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Reflection.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Resources.Reader.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Resources.Writer.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Claims.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Principal.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.SecureString.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Text.Encoding.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.Thread.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.Timer.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ValueTuple.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.XPath.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\DnsClient.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Buffers.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaInterfaces.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\DnsClient.xml
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Buffers.xml
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csprojAssemblyReference.cache
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.exe.config
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.Properties.Resources.resources
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csproj.GenerateResource.cache
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csproj.CoreCompileInputs.cache
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csproj.CopyComplete
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.exe
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.pdb
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaServer.exe.config
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaServer.exe
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaServer.pdb
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\netstandard.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.AppContext.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Collections.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ComponentModel.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Console.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Data.Common.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Globalization.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.Compression.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.Pipes.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Linq.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Http.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Ping.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Primitives.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Requests.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Security.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.Sockets.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ObjectModel.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Reflection.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Resources.Reader.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Resources.Writer.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Claims.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.Principal.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Security.SecureString.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Text.Encoding.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.Thread.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Threading.Timer.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.ValueTuple.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.XPath.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\DnsClient.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Buffers.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaInterfaces.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\DnsClient.xml
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Bson.xml
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Driver.xml
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\bin\Debug\System.Buffers.xml
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csprojAssemblyReference.cache
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.exe.config
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.Properties.Resources.resources
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csproj.GenerateResource.cache
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csproj.CoreCompileInputs.cache
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.csproj.CopyComplete
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.exe
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaServer\obj\Debug\VolupiaServer.pdb
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\VolupiaServer.exe.config
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\VolupiaServer.exe
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\VolupiaServer.pdb
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\netstandard.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.AppContext.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Collections.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Collections.Specialized.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.ComponentModel.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Console.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Data.Common.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Globalization.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.IO.Compression.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.IO.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.IO.FileSystem.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.IO.Pipes.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Linq.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Linq.Expressions.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Linq.Parallel.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Linq.Queryable.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Net.Http.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Net.NameResolution.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Net.Ping.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Net.Primitives.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Net.Requests.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Net.Security.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Net.Sockets.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Net.WebSockets.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.ObjectModel.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Reflection.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Resources.Reader.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Resources.Writer.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Runtime.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Runtime.Handles.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Security.Claims.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Security.Principal.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Security.SecureString.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Text.Encoding.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Threading.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Threading.Tasks.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Threading.Thread.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Threading.Timer.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.ValueTuple.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Xml.XDocument.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Xml.XPath.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\DnsClient.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\MongoDB.Bson.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\MongoDB.Driver.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Buffers.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\VolupiaInterfaces.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\DnsClient.xml
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\bin\Debug\System.Buffers.xml
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\obj\Debug\VolupiaServer.csprojAssemblyReference.cache
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\obj\Debug\VolupiaServer.exe.config
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\obj\Debug\VolupiaServer.Properties.Resources.resources
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\obj\Debug\VolupiaServer.csproj.GenerateResource.cache
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\obj\Debug\VolupiaServer.csproj.CoreCompileInputs.cache
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\obj\Debug\VolupiaServer.csproj.CopyComplete
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\obj\Debug\VolupiaServer.exe
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\obj\Debug\VolupiaServer.pdb

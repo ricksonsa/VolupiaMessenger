@@ -1,0 +1,245 @@
+12:22:54 quarta-feira, 19 de setembro de 2018
+Carla se conectou
+---------------------------------------------------------------------------------------------
+12:26:18 quarta-feira, 19 de setembro de 2018
+Carla solicitou acesso.
+---------------------------------------------------------------------------------------------
+12:26:19 quarta-feira, 19 de setembro de 2018
+Carla acesso validado.
+---------------------------------------------------------------------------------------------
+12:26:19 quarta-feira, 19 de setembro de 2018
+Carla se conectou
+---------------------------------------------------------------------------------------------
+12:26:22 quarta-feira, 19 de setembro de 2018
+Rick solicitou acesso.
+---------------------------------------------------------------------------------------------
+12:26:23 quarta-feira, 19 de setembro de 2018
+Rick acesso validado.
+---------------------------------------------------------------------------------------------
+12:26:23 quarta-feira, 19 de setembro de 2018
+Rick se conectou
+---------------------------------------------------------------------------------------------
+12:26:59 quarta-feira, 19 de setembro de 2018
+Rick se conectou
+---------------------------------------------------------------------------------------------
+12:27:00 quarta-feira, 19 de setembro de 2018
+Carla se conectou
+---------------------------------------------------------------------------------------------
+12:27:24 quarta-feira, 19 de setembro de 2018
+Carla se desconectou
+---------------------------------------------------------------------------------------------
+12:27:25 quarta-feira, 19 de setembro de 2018
+Rick se desconectou
+---------------------------------------------------------------------------------------------
+5:10:04 PM Tuesday, September 25, 2018
+Carla solicitou acesso.
+---------------------------------------------------------------------------------------------
+5:10:10 PM Tuesday, September 25, 2018
+Carla acesso validado.
+---------------------------------------------------------------------------------------------
+5:10:10 PM Tuesday, September 25, 2018
+Carla se conectou
+---------------------------------------------------------------------------------------------
+5:11:47 PM Tuesday, September 25, 2018
+Carla se desconectou
+---------------------------------------------------------------------------------------------
+5:15:20 PM Tuesday, September 25, 2018
+Carla solicitou acesso.
+---------------------------------------------------------------------------------------------
+5:15:20 PM Tuesday, September 25, 2018
+Carla acesso validado.
+---------------------------------------------------------------------------------------------
+5:15:20 PM Tuesday, September 25, 2018
+Carla se conectou
+---------------------------------------------------------------------------------------------
+5:15:37 PM Tuesday, September 25, 2018
+Carla time out.
+---------------------------------------------------------------------------------------------
+5:16:06 PM Tuesday, September 25, 2018
+Carla solicitou acesso.
+---------------------------------------------------------------------------------------------
+5:16:06 PM Tuesday, September 25, 2018
+Carla acesso validado.
+---------------------------------------------------------------------------------------------
+5:16:06 PM Tuesday, September 25, 2018
+Carla se conectou
+---------------------------------------------------------------------------------------------
+5:18:13 PM Tuesday, September 25, 2018
+Carla se desconectou
+---------------------------------------------------------------------------------------------
+5:38:37 PM Tuesday, September 25, 2018
+Ze solicitou acesso.
+---------------------------------------------------------------------------------------------
+5:38:37 PM Tuesday, September 25, 2018
+Ze acesso validado.
+---------------------------------------------------------------------------------------------
+5:38:37 PM Tuesday, September 25, 2018
+Ze se conectou
+---------------------------------------------------------------------------------------------
+5:39:21 PM Tuesday, September 25, 2018
+Ze se desconectou
+---------------------------------------------------------------------------------------------
+5:39:24 PM Tuesday, September 25, 2018
+Ze solicitou acesso.
+---------------------------------------------------------------------------------------------
+5:39:24 PM Tuesday, September 25, 2018
+Ze acesso validado.
+---------------------------------------------------------------------------------------------
+5:39:25 PM Tuesday, September 25, 2018
+Ze se conectou
+---------------------------------------------------------------------------------------------
+5:39:45 PM Tuesday, September 25, 2018
+Ze se desconectou
+---------------------------------------------------------------------------------------------
+5:39:58 PM Tuesday, September 25, 2018
+Ze solicitou acesso.
+---------------------------------------------------------------------------------------------
+5:39:58 PM Tuesday, September 25, 2018
+Ze acesso validado.
+---------------------------------------------------------------------------------------------
+5:39:58 PM Tuesday, September 25, 2018
+Ze se conectou
+---------------------------------------------------------------------------------------------
+5:40:15 PM Tuesday, September 25, 2018
+Carla solicitou acesso.
+---------------------------------------------------------------------------------------------
+5:40:15 PM Tuesday, September 25, 2018
+Carla acesso validado.
+---------------------------------------------------------------------------------------------
+5:40:15 PM Tuesday, September 25, 2018
+Carla se conectou
+---------------------------------------------------------------------------------------------
+5:50:37 PM Tuesday, September 25, 2018
+System.ServiceModel.CommunicationObjectFaultedException: The communication object, System.ServiceModel.Channels.ServiceChannel, cannot be used for communication because it is in the Faulted state.
+
+Server stack trace: 
+   at System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrNotOpen()
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at VolupiaInterfaces.IClient.GetUpdate(Int32 value, String userName)
+   at VolupiaServer.VolupiaService.UpdateHelper(Int32 value, String userName) in C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\VolupiaService.cs:line 101
+   at VolupiaServer.VolupiaService.SendRequestToAll() in C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\VolupiaService.cs:line 141
+   at VolupiaServer.Program.SendRequestHelper() in C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\Program.cs:line 112
+---------------------------------------------------------------------------------------------
+5:51:47 PM Tuesday, September 25, 2018
+Carla time out.
+---------------------------------------------------------------------------------------------
+6:00:45 PM Tuesday, September 25, 2018
+Carla se conectou
+---------------------------------------------------------------------------------------------
+6:01:46 PM Tuesday, September 25, 2018
+Ze se conectou
+---------------------------------------------------------------------------------------------
+6:02:08 PM Tuesday, September 25, 2018
+Ze time out.
+---------------------------------------------------------------------------------------------
+6:02:08 PM Tuesday, September 25, 2018
+Carla time out.
+---------------------------------------------------------------------------------------------
+6:02:47 PM Tuesday, September 25, 2018
+Ze se conectou
+---------------------------------------------------------------------------------------------
+6:04:04 PM Tuesday, September 25, 2018
+Ze se desconectou
+---------------------------------------------------------------------------------------------
+6:06:55 PM Tuesday, September 25, 2018
+Ze solicitou acesso.
+---------------------------------------------------------------------------------------------
+6:06:56 PM Tuesday, September 25, 2018
+Ze acesso validado.
+---------------------------------------------------------------------------------------------
+6:06:56 PM Tuesday, September 25, 2018
+Ze se conectou
+---------------------------------------------------------------------------------------------
+6:07:52 PM Tuesday, September 25, 2018
+Ze se desconectou
+---------------------------------------------------------------------------------------------
+6:10:36 PM Tuesday, September 25, 2018
+Carla se conectou
+---------------------------------------------------------------------------------------------
+6:14:40 PM Tuesday, September 25, 2018
+Carla se desconectou
+---------------------------------------------------------------------------------------------
+7:07:44 PM Tuesday, September 25, 2018
+Rick se conectou
+---------------------------------------------------------------------------------------------
+7:12:21 PM Tuesday, September 25, 2018
+Ze solicitou acesso.
+---------------------------------------------------------------------------------------------
+7:12:35 PM Tuesday, September 25, 2018
+Ze acesso validado.
+---------------------------------------------------------------------------------------------
+7:12:36 PM Tuesday, September 25, 2018
+Ze se conectou
+---------------------------------------------------------------------------------------------
+7:14:11 PM Tuesday, September 25, 2018
+System.ServiceModel.CommunicationException: The server did not provide a meaningful reply; this might be caused by a contract mismatch, a premature session shutdown or an internal server error.
+
+Server stack trace: 
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at VolupiaInterfaces.IClient.GetUpdate(Int32 value, String userName)
+   at VolupiaServer.VolupiaService.UpdateHelper(Int32 value, String userName) in C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\VolupiaService.cs:line 101
+   at VolupiaServer.VolupiaService.SendRequestToAll() in C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\VolupiaService.cs:line 141
+   at VolupiaServer.Program.SendRequestHelper() in C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\Program.cs:line 112
+---------------------------------------------------------------------------------------------
+7:14:17 PM Tuesday, September 25, 2018
+Ze solicitou acesso.
+---------------------------------------------------------------------------------------------
+7:14:17 PM Tuesday, September 25, 2018
+Ze acesso validado.
+---------------------------------------------------------------------------------------------
+7:15:21 PM Tuesday, September 25, 2018
+System.ServiceModel.CommunicationObjectFaultedException: The communication object, System.ServiceModel.Channels.ServiceChannel, cannot be used for communication because it is in the Faulted state.
+
+Server stack trace: 
+   at System.ServiceModel.Channels.CommunicationObject.ThrowIfDisposedOrNotOpen()
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at VolupiaInterfaces.IClient.GetUpdate(Int32 value, String userName)
+   at VolupiaServer.VolupiaService.UpdateHelper(Int32 value, String userName) in C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\VolupiaService.cs:line 101
+   at VolupiaServer.VolupiaService.SendRequestToAll() in C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\VolupiaService.cs:line 141
+   at VolupiaServer.Program.SendRequestHelper() in C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaServer\Program.cs:line 112
+---------------------------------------------------------------------------------------------
+7:16:31 PM Tuesday, September 25, 2018
+Ze time out.
+---------------------------------------------------------------------------------------------
+7:18:56 PM Tuesday, September 25, 2018
+Ze solicitou acesso.
+---------------------------------------------------------------------------------------------
+7:18:56 PM Tuesday, September 25, 2018
+Ze acesso validado.
+---------------------------------------------------------------------------------------------
+7:18:56 PM Tuesday, September 25, 2018
+Ze se conectou
+---------------------------------------------------------------------------------------------
+7:34:20 PM Tuesday, September 25, 2018
+Ze time out.
+---------------------------------------------------------------------------------------------
+7:34:29 PM Tuesday, September 25, 2018
+Rick se conectou
+---------------------------------------------------------------------------------------------
+7:34:36 PM Tuesday, September 25, 2018
+Ze se conectou
+---------------------------------------------------------------------------------------------
+7:42:21 PM Tuesday, September 25, 2018
+Ze time out.
+---------------------------------------------------------------------------------------------
+7:48:09 PM Tuesday, September 25, 2018
+Rick se desconectou
+---------------------------------------------------------------------------------------------

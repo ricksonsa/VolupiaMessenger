@@ -1,0 +1,57 @@
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\obj\Debug\VolupiaWPFClient.csprojAssemblyReference.cache
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\obj\Debug\Chat.g.cs
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\obj\Debug\MainWindow.g.cs
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\obj\Debug\App.g.cs
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\obj\Debug\VolupiaWPFClient_MarkupCompile.cache
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\obj\Debug\VolupiaWPFClient_MarkupCompile.lref
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\bin\Debug\VolupiaWPFClient.exe.config
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\bin\Debug\VolupiaWPFClient.exe
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\bin\Debug\VolupiaWPFClient.pdb
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\bin\Debug\NAudio.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\bin\Debug\VolupiaInterfaces.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\bin\Debug\VolupiaServer.exe
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\bin\Debug\VolupiaInterfaces.pdb
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\bin\Debug\VolupiaServer.pdb
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\bin\Debug\VolupiaServer.exe.config
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\obj\Debug\Chat.baml
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\obj\Debug\MainWindow.baml
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\obj\Debug\VolupiaWPFClient.g.resources
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\obj\Debug\VolupiaWPFClient.Properties.Resources.resources
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\obj\Debug\VolupiaWPFClient.csproj.GenerateResource.cache
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\obj\Debug\VolupiaWPFClient.csproj.CoreCompileInputs.cache
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\obj\Debug\VolupiaWPFClient.csproj.CopyComplete
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\obj\Debug\VolupiaWPFClient.exe
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaWPFClient\obj\Debug\VolupiaWPFClient.pdb
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\VolupiaWPFClient.exe.config
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\VolupiaWPFClient.exe
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\VolupiaWPFClient.pdb
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\NAudio.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\VolupiaInterfaces.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\VolupiaServer.exe
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\MongoDB.Bson.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\MongoDB.Driver.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\DnsClient.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\System.Buffers.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\netstandard.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\VolupiaServer.pdb
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\VolupiaServer.exe.config
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\DnsClient.xml
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\bin\Debug\System.Buffers.xml
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\obj\Debug\VolupiaWPFClient.csprojAssemblyReference.cache
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\obj\Debug\Chat.g.cs
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\obj\Debug\MainWindow.g.cs
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\obj\Debug\App.g.cs
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\obj\Debug\VolupiaWPFClient_MarkupCompile.cache
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\obj\Debug\VolupiaWPFClient_MarkupCompile.lref
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\obj\Debug\Chat.baml
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\obj\Debug\MainWindow.baml
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\obj\Debug\VolupiaWPFClient.g.resources
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\obj\Debug\VolupiaWPFClient.Properties.Resources.resources
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\obj\Debug\VolupiaWPFClient.csproj.GenerateResource.cache
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\obj\Debug\VolupiaWPFClient.csproj.CoreCompileInputs.cache
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\obj\Debug\VolupiaWPFClient.csproj.CopyComplete
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\obj\Debug\VolupiaWPFClient.exe
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaWPFClient\obj\Debug\VolupiaWPFClient.pdb

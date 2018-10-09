@@ -1,0 +1,52 @@
+c:\users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.csprojResolveAssemblyReference.cache
+c:\users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaInterfaces\bin\Debug\VolupiaInterfaces.dll
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaInterfaces\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.dll
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.pdb
+C:\Users\rick_\source\repos\VolupiaMessenger(WFA)Final\VolupiaInterfaces\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaInterfaces\bin\Debug\VolupiaInterfaces.dll
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaInterfaces\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaInterfaces\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.dll
+C:\Users\lvk.rickson\Downloads\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.pdb
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaInterfaces\bin\Debug\VolupiaInterfaces.dll
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaInterfaces\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaInterfaces\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.dll
+C:\Users\Rick\Desktop\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.pdb
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaInterfaces\bin\Debug\VolupiaInterfaces.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaInterfaces\bin\Debug\VolupiaInterfaces.pdb
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaInterfaces\bin\Debug\Tulpep.NotificationWindow.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.csprojAssemblyReference.cache
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.csproj.CoreCompileInputs.cache
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.csproj.CopyComplete
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.dll
+C:\ProgramData\Adobe\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.pdb
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaInterfaces\bin\Debug\VolupiaInterfaces.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaInterfaces\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaInterfaces\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.csprojAssemblyReference.cache
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.csproj.CopyComplete
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.dll
+C:\Users\rick\Google Drive\Desenvolvimento\C#\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.pdb
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaInterfaces\bin\Debug\VolupiaInterfaces.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaInterfaces\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaInterfaces\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.csprojAssemblyReference.cache
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.csproj.CopyComplete
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.dll
+C:\Users\lvk.rickson\Downloads\Volupia2.1-20180919T132111Z-001\Volupia2.1\VolupiaMessenger\Nova pasta\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.pdb
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaInterfaces\bin\Debug\VolupiaInterfaces.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaInterfaces\bin\Debug\VolupiaInterfaces.pdb
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaInterfaces\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.csproj.CopyComplete
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.dll
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.pdb
+C:\Users\rick\Documents\Volupia\VolupiaMessenger2.2\VolupiaInterfaces\obj\Debug\VolupiaInterfaces.csprojAssemblyReference.cache
