@@ -7,14 +7,11 @@ using VolupiaInterfaces;
 
 namespace VolupiaServer
 {
-    public class ConnectedClient
+    public class ConnectedClient : Client
     {
         public IClient connection;
-        public int Id { get; set; }
-        public int Password { get; set; }
-        public string Email { get; set; }
-        public string Name { get; set; }
-        public string Username { get; set; }
+        public bool TryingToConnect;
+        
         public bool Connected { get; set; }
     }
 }

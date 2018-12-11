@@ -14,7 +14,7 @@ namespace VolupiaWPFClient
     public class VolupiaWPFClientCallBack : IClient
     {
         
-        public void GetAudioMessage(MemoryStream ms, string userName)
+        public void GetAudioMessage(MemoryStream ms, string userName, string meta)
         {
             ((Chat)Application.Current.MainWindow).TakeAudioMessage(ms, userName);
         }

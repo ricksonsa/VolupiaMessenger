@@ -246,7 +246,7 @@ namespace VolupiaWPFClient
 
             try
             {
-                Server.SendAudioMessageToAll(ms, myUserName);
+                Server.SendAudioMessageToAll(ms, myUserName, null);
                 TakeAudioMessage(ms, "Você");
             }
             catch (Exception ex)

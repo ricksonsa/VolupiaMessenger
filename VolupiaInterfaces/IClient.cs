@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
+﻿using System.IO;
 using System.ServiceModel;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace VolupiaInterfaces
 {
@@ -18,6 +13,12 @@ namespace VolupiaInterfaces
 
         [OperationContract]
         void GetUpdate(int value, string userName);
+
+        [OperationContract]
+        void GetInvites();
+
+        [OperationContract]
+        void IniviteAccepted();
 
         [OperationContract]
         void SendResponse();

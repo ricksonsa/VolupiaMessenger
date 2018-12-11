@@ -11,7 +11,7 @@ namespace VolupiaMessenger
     {
         public void GetAudioMessage(MemoryStream ms, string userName, string meta)
         {
-            if (Form1._channelFactory.State == CommunicationState.Opened)
+            if (LoginForm._channelFactory.State == CommunicationState.Opened)
             {
                 try
                 {
@@ -19,14 +19,14 @@ namespace VolupiaMessenger
                 }
                 catch (Exception ex)
                 {
-                    Form1.Server.UserLogWrite(Chat.myUserName, "[Erro em GetAudioMessage(" + userName + ") [ClientCallback] -> " + ex.ToString());
+                    LoginForm.Server.UserLogWrite(Chat.myUserName, "[Erro em GetAudioMessage(" + userName + ") [ClientCallback] -> " + ex.ToString());
                 }  
             }      
         }
 
         public void GetMessage(string message, string userName)
         {
-            if (Form1._channelFactory.State == CommunicationState.Opened)
+            if (LoginForm._channelFactory.State == CommunicationState.Opened)
             {
                 try
                 {
@@ -34,7 +34,7 @@ namespace VolupiaMessenger
                 }
                 catch (Exception ex)
                 {
-                    Form1.Server.UserLogWrite(Chat.myUserName, "[Erro em GetMessage("+userName+") [ClientCallback] -> " + ex.ToString());
+                    LoginForm.Server.UserLogWrite(Chat.myUserName, "[Erro em GetMessage("+userName+") [ClientCallback] -> " + ex.ToString());
                 }
             }      
         }
@@ -46,7 +46,7 @@ namespace VolupiaMessenger
 
         public void GetUpdate(int value, string userName)
         {
-            if (Form1._channelFactory.State == CommunicationState.Opened)
+            if (LoginForm._channelFactory.State == CommunicationState.Opened)
             {
                 switch (value)
                 {
@@ -58,6 +58,16 @@ namespace VolupiaMessenger
                         break;
                 }
             }
+        }
+
+        public void GetInvites()
+        {
+            Chat.TakeInvites();
+        }
+
+        public void IniviteAccepted()
+        {
+            Chat.GetContacts();
         }
     }
 }

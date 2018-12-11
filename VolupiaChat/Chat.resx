@@ -152,34 +152,10 @@
     <value>346, 17</value>
   </metadata>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="DisplayPanel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>Top, Bottom, Left, Right</value>
-  </data>
-  <data name="DisplayPanel.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
-    <value>GrowAndShrink</value>
-  </data>
-  <data name="DisplayPanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>230, 12</value>
-  </data>
-  <data name="DisplayPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>886, 487</value>
+  <data name="RecordingLbl.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left, Right</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="DisplayPanel.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;DisplayPanel.Name" xml:space="preserve">
-    <value>DisplayPanel</value>
-  </data>
-  <data name="&gt;&gt;DisplayPanel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;DisplayPanel.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;DisplayPanel.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
   <data name="RecordingLbl.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
@@ -190,7 +166,7 @@
     <value>NoControl</value>
   </data>
   <data name="RecordingLbl.Location" type="System.Drawing.Point, System.Drawing">
-    <value>792, 502</value>
+    <value>959, 500</value>
   </data>
   <data name="RecordingLbl.Size" type="System.Drawing.Size, System.Drawing">
     <value>77, 16</value>
@@ -226,7 +202,7 @@
     <value>NoControl</value>
   </data>
   <data name="NameLbl.Location" type="System.Drawing.Point, System.Drawing">
-    <value>117, 14</value>
+    <value>102, 30</value>
   </data>
   <data name="NameLbl.Size" type="System.Drawing.Size, System.Drawing">
     <value>87, 24</value>
@@ -247,49 +223,52 @@
     <value>UserPanel</value>
   </data>
   <data name="&gt;&gt;NameLbl.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>4</value>
   </data>
-  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+  <data name="ContactLbl.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 15.75pt</value>
+  <data name="ContactLbl.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
   </data>
-  <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+  <data name="ContactLbl.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 16pt</value>
+  </data>
+  <data name="ContactLbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
-  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 122</value>
+  <data name="ContactLbl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>112, 0</value>
   </data>
-  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>74, 25</value>
+  <data name="ContactLbl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>97, 27</value>
   </data>
-  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+  <data name="ContactLbl.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
   </data>
-  <data name="label1.Text" xml:space="preserve">
-    <value>Online</value>
+  <data name="ContactLbl.Text" xml:space="preserve">
+    <value>Contatos</value>
   </data>
-  <data name="&gt;&gt;label1.Name" xml:space="preserve">
-    <value>label1</value>
+  <data name="&gt;&gt;ContactLbl.Name" xml:space="preserve">
+    <value>ContactLbl</value>
   </data>
-  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+  <data name="&gt;&gt;ContactLbl.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
-    <value>UserPanel</value>
+  <data name="&gt;&gt;ContactLbl.Parent" xml:space="preserve">
+    <value>RolesPanel</value>
   </data>
-  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>1</value>
+  <data name="&gt;&gt;ContactLbl.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
-  <data name="UserListPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Bottom</value>
+  <data name="UserListPanel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left</value>
   </data>
   <data name="UserListPanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 205</value>
+    <value>7, 173</value>
   </data>
   <data name="UserListPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>207, 374</value>
+    <value>297, 401</value>
   </data>
   <data name="UserListPanel.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -304,22 +283,106 @@
     <value>UserPanel</value>
   </data>
   <data name="&gt;&gt;UserListPanel.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="UserPanel.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+    <value>2</value>
   </data>
   <data name="UserPanel.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
     <value>GrowAndShrink</value>
+  </data>
+  <data name="NBall.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="NBall.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="NBall.Location" type="System.Drawing.Point, System.Drawing">
+    <value>62, 4</value>
+  </data>
+  <data name="NBall.Size" type="System.Drawing.Size, System.Drawing">
+    <value>8, 8</value>
+  </data>
+  <data name="NBall.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="NBall.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;NBall.Name" xml:space="preserve">
+    <value>NBall</value>
+  </data>
+  <data name="&gt;&gt;NBall.Type" xml:space="preserve">
+    <value>VolupiaChat.Controls.RoundButton, VolupiaChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;NBall.Parent" xml:space="preserve">
+    <value>UserPanel</value>
+  </data>
+  <data name="&gt;&gt;NBall.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="ConversationsLbl.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="ConversationsLbl.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="ConversationsLbl.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Tahoma, 16pt</value>
+  </data>
+  <data name="ConversationsLbl.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="ConversationsLbl.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="ConversationsLbl.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 27</value>
+  </data>
+  <data name="ConversationsLbl.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="ConversationsLbl.Text" xml:space="preserve">
+    <value>Conversas</value>
+  </data>
+  <data name="&gt;&gt;ConversationsLbl.Name" xml:space="preserve">
+    <value>ConversationsLbl</value>
+  </data>
+  <data name="&gt;&gt;ConversationsLbl.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ConversationsLbl.Parent" xml:space="preserve">
+    <value>RolesPanel</value>
+  </data>
+  <data name="&gt;&gt;ConversationsLbl.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="RolesPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 135</value>
+  </data>
+  <data name="RolesPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>285, 32</value>
+  </data>
+  <data name="RolesPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;RolesPanel.Name" xml:space="preserve">
+    <value>RolesPanel</value>
+  </data>
+  <data name="&gt;&gt;RolesPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;RolesPanel.Parent" xml:space="preserve">
+    <value>UserPanel</value>
+  </data>
+  <data name="&gt;&gt;RolesPanel.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
   <data name="pictureBox1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 14</value>
+    <value>12, 30</value>
   </data>
   <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>84, 78</value>
+    <value>84, 90</value>
   </data>
   <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -334,7 +397,52 @@
     <value>UserPanel</value>
   </data>
   <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>3</value>
+  </data>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>433, 17</value>
+  </metadata>
+  <data name="MenuButton.AutoSize" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="AddFriendMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>162, 22</value>
+  </data>
+  <data name="AddFriendMenuItem.Text" xml:space="preserve">
+    <value>Adicionar amigo</value>
+  </data>
+  <data name="MenuButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 25</value>
+  </data>
+  <data name="NotificationsDropDownBtn.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="NotificationsDropDownBtn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>28, 25</value>
+  </data>
+  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>307, 29</value>
+  </data>
+  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="menuStrip1.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
+    <value>UserPanel</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
+    <value>5</value>
   </data>
   <data name="UserPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Left</value>
@@ -343,7 +451,7 @@
     <value>0, 0</value>
   </data>
   <data name="UserPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>207, 579</value>
+    <value>307, 579</value>
   </data>
   <data name="UserPanel.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -358,46 +466,25 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;UserPanel.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>7</value>
   </data>
-  <data name="panel2.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
+  <data name="BarPanel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
   </data>
-  <data name="panel2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 39</value>
-  </data>
-  <data name="panel2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>584, 2</value>
-  </data>
-  <data name="panel2.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;panel2.Name" xml:space="preserve">
-    <value>panel2</value>
-  </data>
-  <data name="&gt;&gt;panel2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panel2.Parent" xml:space="preserve">
-    <value>BarPanel</value>
-  </data>
-  <data name="&gt;&gt;panel2.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="textRTB.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
+  <data name="textRTB.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
   </data>
   <data name="textRTB.Font" type="System.Drawing.Font, System.Drawing">
     <value>Calibri, 15.75pt</value>
   </data>
   <data name="textRTB.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
+    <value>17, 12</value>
   </data>
   <data name="textRTB.Multiline" type="System.Boolean, mscorlib">
     <value>False</value>
   </data>
   <data name="textRTB.Size" type="System.Drawing.Size, System.Drawing">
-    <value>584, 39</value>
+    <value>571, 33</value>
   </data>
   <data name="textRTB.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -415,16 +502,13 @@
     <value>BarPanel</value>
   </data>
   <data name="&gt;&gt;textRTB.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="BarPanel.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Left</value>
+    <value>0</value>
   </data>
   <data name="BarPanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
+    <value>17, 12</value>
   </data>
   <data name="BarPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>584, 81</value>
+    <value>607, 56</value>
   </data>
   <data name="BarPanel.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -439,7 +523,7 @@
     <value>TextPanel</value>
   </data>
   <data name="&gt;&gt;BarPanel.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>0</value>
   </data>
   <data name="TextPanel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left, Right</value>
@@ -447,185 +531,11 @@
   <data name="TextPanel.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
     <value>GrowAndShrink</value>
   </data>
-  <data name="SendAudioPicBox.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
-    <value>Stretch</value>
-  </data>
-  <data name="SendAudioPicBox.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Left</value>
-  </data>
-  <data name="SendAudioPicBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="SendAudioPicBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>41, 0</value>
-  </data>
-  <data name="SendAudioPicBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>48, 42</value>
-  </data>
-  <data name="SendAudioPicBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>StretchImage</value>
-  </data>
-  <data name="SendAudioPicBox.TabIndex" type="System.Int32, mscorlib">
-    <value>14</value>
-  </data>
-  <data name="&gt;&gt;SendAudioPicBox.Name" xml:space="preserve">
-    <value>SendAudioPicBox</value>
-  </data>
-  <data name="&gt;&gt;SendAudioPicBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;SendAudioPicBox.Parent" xml:space="preserve">
-    <value>panel3</value>
-  </data>
-  <data name="&gt;&gt;SendAudioPicBox.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="SendPicBox.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
-    <value>Stretch</value>
-  </data>
-  <data name="SendPicBox.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Left</value>
-  </data>
-  <data name="SendPicBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="SendPicBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="SendPicBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>41, 42</value>
-  </data>
-  <data name="SendPicBox.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
-    <value>StretchImage</value>
-  </data>
-  <data name="SendPicBox.TabIndex" type="System.Int32, mscorlib">
-    <value>13</value>
-  </data>
-  <data name="&gt;&gt;SendPicBox.Name" xml:space="preserve">
-    <value>SendPicBox</value>
-  </data>
-  <data name="&gt;&gt;SendPicBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;SendPicBox.Parent" xml:space="preserve">
-    <value>panel3</value>
-  </data>
-  <data name="&gt;&gt;SendPicBox.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="EnviarBtn.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
-    <value>Center</value>
-  </data>
-  <data name="EnviarBtn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="EnviarBtn.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 9</value>
-  </data>
-  <data name="EnviarBtn.Size" type="System.Drawing.Size, System.Drawing">
-    <value>38, 43</value>
-  </data>
-  <data name="EnviarBtn.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="EnviarBtn.Text" xml:space="preserve">
-    <value>Enviar</value>
-  </data>
-  <data name="&gt;&gt;EnviarBtn.Name" xml:space="preserve">
-    <value>EnviarBtn</value>
-  </data>
-  <data name="&gt;&gt;EnviarBtn.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;EnviarBtn.Parent" xml:space="preserve">
-    <value>panel3</value>
-  </data>
-  <data name="&gt;&gt;EnviarBtn.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="BtnSendAudio.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
-    <value>Center</value>
-  </data>
-  <data name="BtnSendAudio.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="BtnSendAudio.Location" type="System.Drawing.Point, System.Drawing">
-    <value>47, 0</value>
-  </data>
-  <data name="BtnSendAudio.Size" type="System.Drawing.Size, System.Drawing">
-    <value>42, 43</value>
-  </data>
-  <data name="BtnSendAudio.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="BtnSendAudio.Text" xml:space="preserve">
-    <value>Áudio</value>
-  </data>
-  <data name="&gt;&gt;BtnSendAudio.Name" xml:space="preserve">
-    <value>BtnSendAudio</value>
-  </data>
-  <data name="&gt;&gt;BtnSendAudio.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;BtnSendAudio.Parent" xml:space="preserve">
-    <value>panel3</value>
-  </data>
-  <data name="&gt;&gt;BtnSendAudio.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="panel3.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="panel3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="panel3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>133, 42</value>
-  </data>
-  <data name="panel3.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;panel3.Name" xml:space="preserve">
-    <value>panel3</value>
-  </data>
-  <data name="&gt;&gt;panel3.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panel3.Parent" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;panel3.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="panel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Bottom</value>
-  </data>
-  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>584, 3</value>
-  </data>
-  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>133, 78</value>
-  </data>
-  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
-    <value>16</value>
-  </data>
-  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
-    <value>panel1</value>
-  </data>
-  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
-    <value>TextPanel</value>
-  </data>
-  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
   <data name="TextPanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>267, 521</value>
+    <value>313, 505</value>
   </data>
   <data name="TextPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>717, 81</value>
+    <value>641, 74</value>
   </data>
   <data name="TextPanel.TabIndex" type="System.Int32, mscorlib">
     <value>14</value>
@@ -640,52 +550,115 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;TextPanel.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>6</value>
   </data>
-  <data name="eDisplayFlowPanel.AutoScroll" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="panel3.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Bottom, Left, Right</value>
   </data>
-  <data name="eDisplayFlowPanel.FlowDirection" type="System.Windows.Forms.FlowDirection, System.Windows.Forms">
-    <value>TopDown</value>
+  <data name="MicRBtn.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
   </data>
-  <data name="eDisplayFlowPanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>213, 12</value>
+  <data name="MicRBtn.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
   </data>
-  <data name="eDisplayFlowPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>830, 440</value>
+  <data name="MicRBtn.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
-  <data name="eDisplayFlowPanel.TabIndex" type="System.Int32, mscorlib">
-    <value>17</value>
+  <data name="MicRBtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>67, 0</value>
   </data>
-  <data name="eDisplayFlowPanel.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
+  <data name="MicRBtn.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>20, 3, 3, 3</value>
   </data>
-  <data name="eDisplayFlowPanel.WrapContents" type="System.Boolean, mscorlib">
-    <value>False</value>
+  <data name="MicRBtn.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>20, 0, 0, 0</value>
   </data>
-  <data name="&gt;&gt;eDisplayFlowPanel.Name" xml:space="preserve">
-    <value>eDisplayFlowPanel</value>
+  <data name="MicRBtn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 57</value>
   </data>
-  <data name="&gt;&gt;eDisplayFlowPanel.Type" xml:space="preserve">
-    <value>System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="MicRBtn.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
   </data>
-  <data name="&gt;&gt;eDisplayFlowPanel.Parent" xml:space="preserve">
+  <data name="&gt;&gt;MicRBtn.Name" xml:space="preserve">
+    <value>MicRBtn</value>
+  </data>
+  <data name="&gt;&gt;MicRBtn.Type" xml:space="preserve">
+    <value>VolupiaChat.Controls.RoundButton, VolupiaChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;MicRBtn.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;MicRBtn.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="SendRButton.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="SendRButton.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="SendRButton.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="SendRButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="SendRButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>67, 57</value>
+  </data>
+  <data name="SendRButton.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="&gt;&gt;SendRButton.Name" xml:space="preserve">
+    <value>SendRButton</value>
+  </data>
+  <data name="&gt;&gt;SendRButton.Type" xml:space="preserve">
+    <value>VolupiaChat.Controls.RoundButton, VolupiaChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;SendRButton.Parent" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;SendRButton.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="panel3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>949, 517</value>
+  </data>
+  <data name="panel3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>141, 57</value>
+  </data>
+  <data name="panel3.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;panel3.Name" xml:space="preserve">
+    <value>panel3</value>
+  </data>
+  <data name="&gt;&gt;panel3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel3.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;eDisplayFlowPanel.ZOrder" xml:space="preserve">
-    <value>2</value>
+  <data name="&gt;&gt;panel3.ZOrder" xml:space="preserve">
+    <value>4</value>
   </data>
   <data name="ThisPanel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Top, Bottom, Left, Right</value>
   </data>
+  <data name="ThisPanel.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
   <data name="ThisPanel.Location" type="System.Drawing.Point, System.Drawing">
-    <value>248, 15</value>
+    <value>313, 52</value>
   </data>
   <data name="ThisPanel.Size" type="System.Drawing.Size, System.Drawing">
-    <value>826, 484</value>
+    <value>772, 447</value>
   </data>
   <data name="ThisPanel.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
+  </data>
+  <data name="ThisPanel.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
   </data>
   <data name="&gt;&gt;ThisPanel.Name" xml:space="preserve">
     <value>ThisPanel</value>
@@ -697,6 +670,69 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;ThisPanel.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="NPanel.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="NPanel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="NPanel.AutoSizeMode" type="System.Windows.Forms.AutoSizeMode, System.Windows.Forms">
+    <value>GrowAndShrink</value>
+  </data>
+  <data name="NPanel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>44, 31</value>
+  </data>
+  <data name="NPanel.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>365, 548</value>
+  </data>
+  <data name="NPanel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="NPanel.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="NPanel.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;NPanel.Name" xml:space="preserve">
+    <value>NPanel</value>
+  </data>
+  <data name="&gt;&gt;NPanel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;NPanel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;NPanel.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="roundButton1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="roundButton1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>984, 4</value>
+  </data>
+  <data name="roundButton1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 42</value>
+  </data>
+  <data name="roundButton1.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="roundButton1.Text" xml:space="preserve">
+    <value>roundButton1</value>
+  </data>
+  <data name="&gt;&gt;roundButton1.Name" xml:space="preserve">
+    <value>roundButton1</value>
+  </data>
+  <data name="&gt;&gt;roundButton1.Type" xml:space="preserve">
+    <value>VolupiaChat.Controls.RoundButton, VolupiaChat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;roundButton1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;roundButton1.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
@@ -878,7 +914,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Chat</value>
+    <value>Volupia Messenger</value>
   </data>
   <data name="&gt;&gt;timer1.Name" xml:space="preserve">
     <value>timer1</value>
@@ -909,6 +945,24 @@
   </data>
   <data name="&gt;&gt;timer3.Type" xml:space="preserve">
     <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;MenuButton.Name" xml:space="preserve">
+    <value>MenuButton</value>
+  </data>
+  <data name="&gt;&gt;MenuButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AddFriendMenuItem.Name" xml:space="preserve">
+    <value>AddFriendMenuItem</value>
+  </data>
+  <data name="&gt;&gt;AddFriendMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;NotificationsDropDownBtn.Name" xml:space="preserve">
+    <value>NotificationsDropDownBtn</value>
+  </data>
+  <data name="&gt;&gt;NotificationsDropDownBtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>Chat</value>

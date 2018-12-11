@@ -17,21 +17,23 @@ namespace VolupiaServer
         private static Thread checkUpdate;
         public static VolupiaService _server;
         public static ServiceHost host;
+        private static readonly int _UserTimeOut = 30;
+        private static int Count = 30;
 
         static void Main(string[] args)
         {
             OpenHost();
             host.Faulted += Host_Faulted;
 
-            
+
         }
-        
+
         private static void OpenHost()
         {
             _server = new VolupiaService();
             checkUpdate = new Thread(SendRequestHelper);
             checkUpdate.Start();
-            
+
 
             using (host = new ServiceHost(_server))
             {
@@ -48,6 +50,7 @@ namespace VolupiaServer
                 {
                     host.Open();
                     Console.WriteLine("Servidor ligado...");
+                    Logger.ServerLog("Servidor iniciado...");
                 }
                 catch (TimeoutException ex)
                 {
@@ -61,6 +64,8 @@ namespace VolupiaServer
                     Console.Read();
                     host.Close();
                 }
+
+
                 while (true)
                 {
                     IntPtr hWnd = GetConsoleWindow();
@@ -100,7 +105,11 @@ namespace VolupiaServer
 
         private static void SendRequestHelper()
         {
-            Thread.Sleep(70000);
+            Thread.Sleep(_UserTimeOut*1000);
+
+            if (host.State != CommunicationState.Opened)
+                host.Open();
+
             try
             {
                 _server.SendRequestToAll();
@@ -112,7 +121,7 @@ namespace VolupiaServer
             finally
             {
                 SendRequestHelper();//Recursiva
-            }           
+            }
         }
 
         private static void Host_Opened(object sender, EventArgs e)

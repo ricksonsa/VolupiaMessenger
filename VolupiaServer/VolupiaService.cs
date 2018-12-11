@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.IO;
@@ -8,42 +9,64 @@ using VolupiaInterfaces;
 namespace VolupiaServer
 {
     // OBSERVAÇÃO: Você pode usar o comando "Renomear" no menu "Refatorar" para alterar o nome da classe "VolupiaService" no arquivo de código e configuração ao mesmo tempo.
-    [ServiceBehavior(ConcurrencyMode = ConcurrencyMode.Multiple, InstanceContextMode = InstanceContextMode.Single, AutomaticSessionShutdown = false)]
+    [ServiceBehavior(ConcurrencyMode = ConcurrencyMode.Multiple, InstanceContextMode = InstanceContextMode.Single, AutomaticSessionShutdown = false, IncludeExceptionDetailInFaults = true)]
     public class VolupiaService : IVolupiaService
     {
         public ConcurrentDictionary<string, ConnectedClient> _connectedClients = new ConcurrentDictionary<string, ConnectedClient>();
 
-        public int Login(string userName)
+        public string Login(string userName, string password)
         {
-            //esta alguem logado com meu nome?
-            foreach (var client in _connectedClients)
+            string json;
+            if (ValidateUser(userName, password))
             {
-                if (client.Key.ToLower() == userName.ToLower())
+                json = GetUser(userName, password);
+                var user = JsonConvert.DeserializeObject<Client>(json);
+                //esta alguem logado com meu nome?
+                foreach (var client in _connectedClients)
                 {
-                    //se sim
-                    return 1;
+                    if (client.Key.ToLower() == user.Username.ToLower())
+                    {
+                        throw new FaultException("Você ja está logado.");
+                    }
                 }
+
+                var establishedUserConnection = OperationContext.Current.GetCallbackChannel<IClient>();
+
+                ConnectedClient newClient = new ConnectedClient
+                {
+                    connection = establishedUserConnection,
+                    Id = user.Id,
+                    Username = user.Username,
+                    Name = user.Name,
+                    Email = user.Email,
+                    TryingToConnect = true,
+                    Connected = false
+                };
+
+                _connectedClients.TryAdd(user.Username, newClient);
+
+                UpdateHelper(0, user.Username);
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("{0} {1} se conectando...", DateTime.Now.ToString(), newClient.Username);
+                Logger.ServerLog(newClient.Username + " se conectando...");
+                Console.ResetColor();
+
+                //Deu certo
+                return json;
             }
+            else
+                throw new FaultException("Senha inválida ou usuário inexistente.");
+        }
 
-            var establishedUserConnection = OperationContext.Current.GetCallbackChannel<IClient>();
-
-            ConnectedClient newClient = new ConnectedClient
-            {
-                connection = establishedUserConnection,
-                Username = userName,
-                Connected = true
-            };
-
-            _connectedClients.TryAdd(userName, newClient);
-
-            UpdateHelper(0, userName);
+        public void Connected()
+        {
+            var current = GetMyClient();
+            current.TryingToConnect = false;
             Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("{0} {1} se conectou", DateTime.Now.ToString(), newClient.Username);
-            Logger.ServerLog(newClient.Username + " se conectou");
+            Console.WriteLine("{0} {1} se conectou", DateTime.Now.ToString(), current.Username);
+            Logger.ServerLog(current.Username + " se conectou");
             Console.ResetColor();
 
-            //se nao
-            return 0;
         }
 
         public void Logout()
@@ -61,16 +84,24 @@ namespace VolupiaServer
             }
         }
 
-        public bool CheckAccount(string userName, string password)
+        public bool ValidateUser(string userName, string password)
         {
-            Logger.ServerLog(userName + " solicitou acesso.");
-            return VolupiaDAO.CheckAccount(userName, password);
+            return VolupiaDAO.ValidateUser(userName, password);
         }
 
-        public string[] GetAccount(string userName, string password)
+        public bool HasUser(string entry)
         {
-            Logger.ServerLog(userName + " acesso validado.");
-            return VolupiaDAO.Login(userName, password);
+            return VolupiaDAO.HasUser(entry);
+        }
+
+        public bool HasMail(string entry)
+        {
+            return VolupiaDAO.HasMail(entry);
+        }
+
+        private string GetUser(string userName, string password)
+        {
+            return VolupiaDAO.GetUser(userName, password);
         }
 
         public ConnectedClient GetMyClient()
@@ -101,14 +132,20 @@ namespace VolupiaServer
         {
             foreach (var client in _connectedClients)
             {
-                if (client.Key.ToLower() != userName.ToLower())
+                if (client.Value.Name.Equals(subject))
                 {
-                    if (client.Key.ToLower().Equals(subject))
-                    {
-                        client.Value.connection.GetMessage(message, userName);
-                        if (message.Length > 55)
-                            message = message.Remove(55);
-                    }
+                    client.Value.connection.GetMessage(message, userName);
+                }
+            }
+        }
+
+        public void SendAudioMessageToUser(MemoryStream ms, string userName, string subject, string meta)
+        {
+            foreach (var client in _connectedClients)
+            {
+                if (client.Value.Name.Equals(subject))
+                {
+                    client.Value.connection.GetAudioMessage(ms, userName, meta);
                 }
             }
         }
@@ -129,52 +166,26 @@ namespace VolupiaServer
                 }
                 finally
                 {
-                    if (!client.Value.Connected)
+                    if (!client.Value.Connected && !client.Value.TryingToConnect)
                     {
                         _connectedClients.TryRemove(client.Key, out ConnectedClient removedeClient);
                         UpdateHelper(1, removedeClient.Username);
                         Console.ForegroundColor = ConsoleColor.Gray;
-                        Console.WriteLine("{0} {1} time out.", DateTime.Now.ToString(), removedeClient.Username);
-                        Logger.ServerLog(removedeClient.Username + " time out.");
+                        Console.WriteLine("{0} {1} timed out.", DateTime.Now.ToString(), removedeClient.Username);
+                        Logger.ServerLog(removedeClient.Username + " timed out.");
                         Console.ResetColor();
                     }
-                }   
+                }
             }
         }
-        
-        public void GetResponse(string userName)
+
+        public void GetResponse()
         {
             ConnectedClient client = GetMyClient();
             if (client != null)
             {
                 client.Connected = true;
             }
-        }
-
-        public void SendMessageToALL(string message, string userName)
-        {
-            foreach (var client in _connectedClients)
-            {
-                if (client.Key.ToLower() != userName.ToLower())
-                {
-                    client.Value.connection.GetMessage(message, userName);
-                    if (message.Length > 55)
-                        message = message.Remove(55);
-                }
-            }
-            //Logger.LogWrite(userName + ": " + message);
-        }
-
-        public void SendAudioMessageToAll(MemoryStream ms, string userName, string meta)
-        {
-            foreach (var client in _connectedClients)
-            {
-                if (client.Key.ToLower() != userName.ToLower())
-                {
-                    client.Value.connection.GetAudioMessage(ms, userName, meta);
-                }
-            }
-            //Logger.LogWrite(userName + " enviou um áudio.");
         }
 
         public List<string> GetCurrentUsers()
@@ -187,32 +198,79 @@ namespace VolupiaServer
             return listOfUsers;
         }
 
-        public List<string> GetFriends(int id)
-        {
-            return VolupiaDAO.GetFriendsById(id);
-        }
-
         public void UserLogWrite(string userName, string logText)
         {
             Logger.ServerLog("Username: " + userName + "\n " + logText);
         }
 
-        public bool InsertUser(string userName, string password, string mail, string name)
+        public bool Register(string user)
         {
-            //return VolupiaDAO.InsertUser(userName, password, mail, name);
-            return false;
+            return VolupiaDAO.InsertUser(user);
         }
 
-        public bool ValidateUser(string loginEntry, string password)
+        #region Friend
+        public bool InviteFriend(int userId, string friendName)
         {
-            return false;
-            //return VolupiaDAO.ValidateUser(loginEntry, password);
+            bool result = FriendDAO.Invite(userId, friendName);
+
+            if (result)
+            {
+                foreach (var client in _connectedClients)
+                {
+                    if (client.Key.ToLower() == friendName.ToLower())
+                    {
+                        client.Value.connection.GetInvites();
+                    }
+                }
+            }
+            return result;
         }
 
-        public string[] GetUser(string loginEntry, string password)
+        public void Accept(int id)
         {
-            // return VolupiaDAO.GetUser(loginEntry, password);
-            return null;
+            FriendDAO.Accept(id);
         }
+
+        public void Reject(int id)
+        {
+            FriendDAO.Reject(id);
+        }
+
+        public List<string> GetContacts(int userId)
+        {
+            return FriendDAO.GetContacts(userId);
+        }
+
+        public List<string> GetInvites(int userId)
+        {
+            return FriendDAO.GetInvites(userId);
+        }
+
+        public List<string> GetInvited(int userId)
+        {
+            return FriendDAO.GetInvited(userId);
+        }
+
+        public List<string> FindByName(string name)
+        {
+            return FriendDAO.Find(name);
+        }
+
+        public string FindById(int id)
+        {
+            return FriendDAO.FindById(id);
+        }
+
+        public bool IsFriendOrInvited(int userId, int friendId)
+        {
+            return FriendDAO.IsFriendOrInvited(userId, friendId);
+        }
+        #endregion
+
+
+        //public bool HasUser(string loginEntry)
+        //{
+        //    return VolupiaDAO.HasUser(loginEntry);
+        //}
     }
 }

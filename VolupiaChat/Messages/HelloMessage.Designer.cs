@@ -1,4 +1,6 @@
-﻿namespace VolupiaChat.MessageBox
+﻿using VolupiaChat.Controls;
+
+namespace VolupiaChat.MessageBox
 {
     partial class HelloMessage
     {
@@ -54,24 +56,25 @@
             // 
             // NameRtb
             // 
-            this.NameRtb.BackColor = System.Drawing.Color.Azure;
+            this.NameRtb.BackColor = System.Drawing.Color.LightSteelBlue;
             this.NameRtb.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.NameRtb.DetectUrls = false;
             this.NameRtb.Font = new System.Drawing.Font("Segoe Print", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.NameRtb.ForeColor = System.Drawing.Color.DarkCyan;
-            this.NameRtb.Location = new System.Drawing.Point(49, 91);
+            this.NameRtb.Location = new System.Drawing.Point(28, 91);
             this.NameRtb.Multiline = false;
             this.NameRtb.Name = "NameRtb";
             this.NameRtb.ReadOnly = true;
             this.NameRtb.Size = new System.Drawing.Size(239, 47);
             this.NameRtb.TabIndex = 0;
+            this.NameRtb.TabStop = false;
             this.NameRtb.Text = "";
             // 
             // HelloMessage
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Azure;
+            this.BackColor = System.Drawing.Color.LightSteelBlue;
             this.ClientSize = new System.Drawing.Size(300, 150);
             this.Controls.Add(this.NameRtb);
             this.Controls.Add(this.MessageLbl);

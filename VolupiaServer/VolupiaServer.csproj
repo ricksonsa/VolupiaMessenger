@@ -36,6 +36,12 @@
     <OutputPath>bin\Mult\</OutputPath>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="MongoDB.Bson, Version=2.7.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\VolupiaChat\bin\Debug\MongoDB.Bson.dll</HintPath>
@@ -48,10 +54,15 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\VolupiaChat\bin\Debug\MongoDB.Driver.Core.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Buffers.4.5.0\lib\netstandard2.0\System.Buffers.dll</HintPath>
     </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
@@ -59,6 +70,8 @@
       <Private>True</Private>
       <Private>True</Private>
     </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.ServiceModel" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
@@ -68,8 +81,60 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Client.cs" />
     <Compile Include="ConnectedClient.cs" />
+    <Compile Include="EntityDataModels\Client.cs">
+      <DependentUpon>ClientModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EntityDataModels\ClientModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClientModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EntityDataModels\ClientModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClientModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EntityDataModels\ClientModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClientModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="EntityDataModels\Friend.cs">
+      <DependentUpon>InvitationsModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EntityDataModels\InvitationsModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InvitationsModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EntityDataModels\InvitationsModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InvitationsModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="EntityDataModels\InvitationsModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>InvitationsModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Friend.cs" />
+    <Compile Include="FriendDAO.cs" />
     <Compile Include="Logger.cs" />
+    <Compile Include="Migrations\201810291602193_CreateEntity.cs" />
+    <Compile Include="Migrations\201810291602193_CreateEntity.Designer.cs">
+      <DependentUpon>201810291602193_CreateEntity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201811080005242_AddFriends.cs" />
+    <Compile Include="Migrations\201811080005242_AddFriends.Designer.cs">
+      <DependentUpon>201811080005242_AddFriends.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201811152334204_updateDb.cs" />
+    <Compile Include="Migrations\201811152334204_updateDb.Designer.cs">
+      <DependentUpon>201811152334204_updateDb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
@@ -77,6 +142,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <Compile Include="VolupiaContext.cs" />
     <Compile Include="VolupiaDAO.cs" />
     <Compile Include="VolupiaService.cs" />
   </ItemGroup>
@@ -92,14 +158,68 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Migrations\201810291602193_CreateEntity.resx">
+      <DependentUpon>201810291602193_CreateEntity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201811080005242_AddFriends.resx">
+      <DependentUpon>201811080005242_AddFriends.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201811152334204_updateDb.resx">
+      <DependentUpon>201811152334204_updateDb.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <EntityDeploy Include="EntityDataModels\ClientModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ClientModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="EntityDataModels\ClientModel.edmx.diagram">
+      <DependentUpon>ClientModel.edmx</DependentUpon>
+    </None>
+    <EntityDeploy Include="EntityDataModels\InvitationsModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>InvitationsModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="EntityDataModels\InvitationsModel.edmx.diagram">
+      <DependentUpon>InvitationsModel.edmx</DependentUpon>
+    </None>
     <None Include="packages.config" />
     <None Include="Resources\if_messenger_17401.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\DataSources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="EntityDataModels\ClientModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ClientModel.edmx</DependentUpon>
+      <LastGenOutput>ClientModel.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="EntityDataModels\ClientModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ClientModel.edmx</DependentUpon>
+      <LastGenOutput>ClientModel.cs</LastGenOutput>
+    </Content>
+    <Content Include="EntityDataModels\InvitationsModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>InvitationsModel.edmx</DependentUpon>
+      <LastGenOutput>InvitationsModel.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="EntityDataModels\InvitationsModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>InvitationsModel.edmx</DependentUpon>
+      <LastGenOutput>InvitationsModel.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

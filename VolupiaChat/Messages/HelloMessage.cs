@@ -7,19 +7,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using VolupiaChat.Controls;
 
 namespace VolupiaChat.MessageBox
 {
     public partial class HelloMessage : Form
     {
         static public Chat ChatWindow;
-        private string[] myUser;
+        private Client myUser;
 
-        public HelloMessage(string[] MyUser)
+        public HelloMessage(Client MyUser)
         {
             InitializeComponent();
+            Region = Region.FromHrgn(GDI.CreateRoundRectRgn(0, 0, Width, Height, 90, 80));
             myUser = MyUser;
-            NameRtb.Text += myUser[1];
+            NameRtb.Text += myUser.Name;
             timer1.Start();
         }
 

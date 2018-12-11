@@ -4,20 +4,25 @@ using System.ServiceModel;
 
 namespace VolupiaInterfaces
 {
-    [ServiceContract(CallbackContract = typeof(IClient),SessionMode = SessionMode.Allowed)]
+    [ServiceContract(CallbackContract = typeof(IClient), SessionMode = SessionMode.Allowed)]
     public interface IVolupiaService
     {
         [OperationContract]
-        int Login(string userName);
+        string Login(string userName, string password);
 
-        [OperationContract] 
-        void SendMessageToALL(string message, string userName);
+        #region User responses to the server
+        [OperationContract]
+        void Connected();
+
+        [OperationContract]
+        void GetResponse();
+        #endregion
 
         [OperationContract]
         void SendMessageToUser(string message, string subject, string userName);
 
         [OperationContract]
-        void SendAudioMessageToAll(MemoryStream ms, string userName, string meta);
+        void SendAudioMessageToUser(MemoryStream ms, string userName, string subject, string meta);
 
         [OperationContract]
         void Logout();
@@ -26,27 +31,42 @@ namespace VolupiaInterfaces
         List<string> GetCurrentUsers();
 
         [OperationContract]
-        bool CheckAccount(string userName, string password);
-
-        [OperationContract]
-        string[] GetAccount(string userName, string password);
-
-        [OperationContract]
-        void GetResponse(string userName);
-
-        [OperationContract]
         void UserLogWrite(string userName, string logText);
 
-        [OperationContract]
-        List<string> GetFriends(int id);
+        [OperationContract]//json user
+        bool Register(string user);
 
         [OperationContract]
-        bool InsertUser(string userName, string password, string mail, string name);
+        bool HasUser(string entry);
 
         [OperationContract]
-        bool ValidateUser(string loginEntry, string password);
+        bool HasMail(string entry);
 
         [OperationContract]
-        string[] GetUser(string loginEntry, string password);
+        bool InviteFriend(int userId, string friendName);
+
+        [OperationContract]
+        void Accept(int id);
+
+        [OperationContract]
+        void Reject(int id);
+
+        [OperationContract]
+        List<string> GetContacts(int userId);
+
+        [OperationContract]
+        List<string> GetInvites(int userId);
+
+        [OperationContract]
+        List<string> GetInvited(int userId);
+
+        [OperationContract]
+        List<string> FindByName(string name);
+
+        [OperationContract]
+        bool IsFriendOrInvited(int userId, int friendId);
+
+        [OperationContract]
+        string FindById(int id);
     }
 }
